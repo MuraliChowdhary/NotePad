@@ -1,0 +1,55 @@
+.register {
+  width: 340px;
+
+  background-color: #f5f7fa;
+  margin-top: 15vh;
+  margin-left: 75vh;
+  border-radius: 3px;
+  
+  width: 30%;
+}
+
+.header {
+  text-align: center;
+  padding-top: 10vh;
+  font-size: 35px;
+  margin-bottom: 7vh;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.input-container label {
+  width: 90px; /* Adjust the width as needed */
+  text-align: right;
+  margin-right: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+
+.input-container input {
+  flex: 1;
+  padding: 5px;
+  margin-right: 5vh;
+}
+
+#btn {
+  margin-left: 20vh;
+  margin-top: 2vh;
+  width: 30%;
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 5vh;
+}
+
+#btn:hover {
+  background-color: #1eb82be7;
+}

@@ -1,0 +1,17 @@
+/* App.css */
+.btnApp {
+  background-color: #128432; /* A green background color */
+  color: white; /* White text color */
+  border: none; /* Remove border */
+  border-radius: 4px; /* Rounded corners */
+  padding: 6px; /* Padding inside the button */
+  font-size: 16px; /* Font size */
+  cursor: pointer; /* Pointer cursor on hover */
+  margin-left: 20px; /* Margin to position the button */
+}
+
+.btnApp:hover {
+  background-color: #1e70eb; 
+  /* Darker green on hover */
+  color:rgb(22, 8, 8)
+}
